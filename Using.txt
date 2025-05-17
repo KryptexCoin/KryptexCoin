@@ -1,0 +1,30 @@
+## Installation
+
+1. Click the **"Code"** button at the top right.
+2. Select **"Download ZIP"**.
+3. Extract the ZIP file and run `Kryptex.exe`.
+
+# 🛠️ How to Use Kryptex
+
+## 🟡 SmartScreen Warning on First Launch
+
+When you first run Kryptex, Windows may display a SmartScreen alert saying  
+the app is from an "unknown publisher."  
+
+This is **normal for new applications** and does **not** mean the file is unsafe.  
+Kryptex is private, clean, and works fully offline by default.
+
+---
+
+## ✅ How to Bypass the Warning and Launch the App
+
+To disable the SmartScreen prompt and run the app smoothly, follow these steps:
+
+1. Right-click on `Kryptex.exe` and select **Properties**.
+2. Under the **General** tab, look for this message at the bottom:  
+   _"This file came from another computer and might be blocked."_
+3. Check the box that says **"Unblock"**.
+4. Click **Apply**, then **OK**.
+5. Now double-click `Kryptex.exe` to run the app.
+
+You should no longer see the warning message again.
