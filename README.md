@@ -5,7 +5,7 @@
 **Kryptex** is a professional-grade, lightweight, and secure Bitcoin desktop  
 application designed for active users and serious traders.
 
-https://github.com/KryptexCoin/KryptexCoin/blob/main/screenshots/KryptexCoin.png?raw=true
+![Screenshot](https://github.com/KryptexCoin/KryptexCoin/blob/main/screenshots/KryptexCoin.png?raw=true)
 
 ### ⚙️ Features:
 
