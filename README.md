@@ -46,3 +46,5 @@ Kryptex is a new app, so Windows may show a SmartScreen warning.
 This is completely normal and doesn't indicate any danger.  
 
 See `Using.txt` to disable this warning permanently.
+
+UPDATE DATE:13.06.2025
